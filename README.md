@@ -1,2 +1,4 @@
 # ADRD
-Official implementation of ADRD(LLM-Driven \textbf{A}utonomous \textbf{D}riving Based on \textbf{R}ule-based \textbf{D}ecision Systems)
+Official implementation of ADRD(LLM-Driven Autonomous Driving Based on Rule-based Decision Systems)
+
+Our code is coming soon!
